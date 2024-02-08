@@ -24,4 +24,6 @@ First, JDK installation
      
   6)java -version
 
+Second, Zeppelin-Installation
+
 
