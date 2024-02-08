@@ -21,8 +21,10 @@ First, JDK installation
   5) Set the new JDK as the default
   
       sudo update-alternatives --set java /usr/lib/jvm/jdk-21.0.2/bin/java
+  5) java -version
+
   
-  6)java -version
+  6)
 
 Second, Zeppelin-Installation
 
