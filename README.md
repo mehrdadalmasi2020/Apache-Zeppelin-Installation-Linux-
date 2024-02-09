@@ -1,4 +1,4 @@
-# Apache-Zeppelin-Installation-Linux-Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala, Python, R and more
+# Apache-Zeppelin-Installation-Linux (Web based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala, Python, R and more)
 Apache Zeppelin Installation
 
 First, JDK installation
