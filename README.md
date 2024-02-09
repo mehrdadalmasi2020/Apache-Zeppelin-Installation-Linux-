@@ -37,5 +37,14 @@ sudo tar zxvf zeppelin-0.10.1-bin-all.tgz
    
     sudo bin/zeppelin-daemon.sh start
 
+Change the configuration file to work with Zeppelin remotely and share your work with your colleagues. 
 
+1) stop Zeppelin service 
+bin/zeppelin-daemon.sh stop
+
+2) go to   /zeppelin-0.10.1-bin-all/conf directory
+
+3) sudo cp zeppelin-site.xml.template zeppelin-site.xml
+
+4) set "zeppelin.server.addr" to 0.0.0.0
 
