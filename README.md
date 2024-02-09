@@ -23,6 +23,10 @@ First, JDK installation
       sudo update-alternatives --set java /usr/lib/jvm/jdk-21.0.2/bin/java
   6) java -version
 
-Second, Zeppelin-Installation
+Second, Zeppelin-Installation:
+
+1) Download Binary Package
+https://dlcdn.apache.org/zeppelin/zeppelin-0.10.1/zeppelin-0.10.1-bin-all.tgz
+
 
 
