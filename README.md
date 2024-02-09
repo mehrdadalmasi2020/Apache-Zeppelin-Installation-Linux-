@@ -55,5 +55,7 @@ Restart Zeppelin
 1) cd zeppelin-0.10.1-bin-all
 2) sudo bin/zeppelin-daemon.sh restart
 
+Open Zeppelin
+  Write http://10.240.4.227:8080/ on a tab of your internet browser.
 
 
