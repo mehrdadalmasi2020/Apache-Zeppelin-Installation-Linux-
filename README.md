@@ -44,9 +44,16 @@ bin/zeppelin-daemon.sh stop
 
 2) go to   /zeppelin-0.10.1-bin-all/conf directory
 
-3) sudo cp zeppelin-site.xml.template zeppelin-site.xml
+3) sudo cp zeppelin-site.xml.template   zeppelin-site.xml
 
-4) set "zeppelin.server.addr" to 0.0.0.0
+4) sudo nano zeppelin-site.xml
+
+5) set "zeppelin.server.addr" to 0.0.0.0
+
+Restart Zeppelin
+
+1) cd zeppelin-0.10.1-bin-all
+2) sudo bin/zeppelin-daemon.sh restart
 
 
 
