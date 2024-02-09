@@ -28,5 +28,18 @@ Second, Zeppelin-Installation:
 1) Download Binary Package
 https://dlcdn.apache.org/zeppelin/zeppelin-0.10.1/zeppelin-0.10.1-bin-all.tgz
 
+2) Extract the file
+sudo tar zxvf zeppelin-0.10.1-bin-all.tgz
+
+3) Starting Apache Zeppelin
+    cd zeppelin-0.10.1-bin-all/
+    sudo bin/zeppelin-daemon.sh start
+   
+   
+
+
+1) Download Binary Package
+https://dlcdn.apache.org/zeppelin/zeppelin-0.10.1/zeppelin-0.10.1-bin-all.tgz
+
 
 
