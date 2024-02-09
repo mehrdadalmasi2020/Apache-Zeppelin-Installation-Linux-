@@ -48,3 +48,5 @@ bin/zeppelin-daemon.sh stop
 
 4) set "zeppelin.server.addr" to 0.0.0.0
 
+
+
