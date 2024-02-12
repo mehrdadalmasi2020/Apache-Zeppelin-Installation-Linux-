@@ -56,6 +56,6 @@ Restart Zeppelin
 2) sudo bin/zeppelin-daemon.sh restart
 
 Open Zeppelin
-  Write http://<IP-remote-machine>:8080/ on a tab of your internet browser.
+  Write http://<IP_remote_machine>:8080/ on a tab of your internet browser.
 
 
